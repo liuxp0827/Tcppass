@@ -1,0 +1,15 @@
+{
+  "ifaces": [
+    {
+      "name": "eth0",
+      "snaplen": 2048,
+      "filter": "tcp",
+      "bufferSize": 5120,
+      "promisc": false
+    }
+  ],
+  
+  "loglevel": 6,
+  "cacheLog": "",
+  "timeout": 120
+}
