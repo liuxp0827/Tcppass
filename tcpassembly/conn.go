@@ -2,12 +2,12 @@ package tcpassembly
 
 import (
 	"fmt"
-	"github/liuxp0827/tcppass/common/cache"
-	"github/liuxp0827/tcppass/dpi"
+	"github.com/liuxp0827/Tcppass/common/cache"
+	"github.com/liuxp0827/Tcppass/dpi"
 	"github.com/google/gopacket"
 	"github.com/google/gopacket/layers"
-	"github/liuxp0827/tcppass/common/log"
-	. "github/liuxp0827/tcppass/tcp"
+	"github.com/liuxp0827/Tcppass/common/log"
+	. "github.com/liuxp0827/Tcppass/tcp"
 	"time"
 )
 

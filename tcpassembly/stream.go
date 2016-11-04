@@ -3,12 +3,12 @@ package tcpassembly
 import (
 	"flag"
 	"math"
-	"github/liuxp0827/tcppass/common/cache"
-	"github/liuxp0827/tcppass/dpi"
+	"github.com/liuxp0827/Tcppass/common/cache"
+	"github.com/liuxp0827/Tcppass/dpi"
 	"github.com/google/gopacket/layers"
-	"github/liuxp0827/tcppass/httpassembly"
-	"github/liuxp0827/tcppass/common/log"
-	"github/liuxp0827/tcppass/stat"
+	"github.com/liuxp0827/Tcppass/httpassembly"
+	"github.com/liuxp0827/Tcppass/common/log"
+	"github.com/liuxp0827/Tcppass/stat"
 	"sync"
 	"time"
 )

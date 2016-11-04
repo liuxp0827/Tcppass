@@ -4,8 +4,8 @@ import (
 	"container/list"
 	"fmt"
 	"github.com/google/gopacket"
-	"github/liuxp0827/tcppass/common/log"
-	"github/liuxp0827/tcppass/tcp"
+	"github.com/liuxp0827/Tcppass/common/log"
+	"github.com/liuxp0827/Tcppass/tcp"
 	"sync"
 	"time"
 )

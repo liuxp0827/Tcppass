@@ -1,12 +1,12 @@
 package main
 
 import (
-	. "github/liuxp0827/tcppass/dump"
+	. "github.com/liuxp0827/Tcppass/dump"
 	"github.com/google/gopacket"
 	"github.com/google/gopacket/layers"
 	"github.com/google/gopacket/pcap"
-	"github/liuxp0827/tcppass/common/log"
-	"github/liuxp0827/tcppass/tcpassembly"
+	"github.com/liuxp0827/Tcppass/common/log"
+	"github.com/liuxp0827/Tcppass/tcpassembly"
 	"time"
 	"os"
 )

@@ -1,7 +1,7 @@
 package dpi
 
 import (
-	"github/liuxp0827/tcppass/httpassembly"
+	"github.com/liuxp0827/Tcppass/httpassembly"
 	"time"
 )
 

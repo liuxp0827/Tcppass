@@ -3,7 +3,7 @@ package tcpassembly
 import (
 	"github.com/google/gopacket"
 	"github.com/google/gopacket/layers"
-	"github/liuxp0827/tcppass/stat"
+	"github.com/liuxp0827/Tcppass/stat"
 	"time"
 )
 

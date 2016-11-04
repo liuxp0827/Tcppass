@@ -1,8 +1,8 @@
 package tcpassembly
 
 import (
-	"github/liuxp0827/tcppass/common/log"
-	"github/liuxp0827/tcppass/stat"
+	"github.com/liuxp0827/Tcppass/common/log"
+	"github.com/liuxp0827/Tcppass/stat"
 	"sync"
 	"time"
 )

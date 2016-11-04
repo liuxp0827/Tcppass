@@ -6,12 +6,12 @@ import (
 	"net/http"
 	_ "net/http/pprof"
 	"runtime"
-	"github/liuxp0827/tcppass/common/cache"
-	. "github/liuxp0827/tcppass/common/config"
-	"github/liuxp0827/tcppass/common/log"
-	. "github/liuxp0827/tcppass/dump"
-	"github/liuxp0827/tcppass/stat"
-	"github/liuxp0827/tcppass/tcpassembly"
+	"github.com/liuxp0827/Tcppass/common/cache"
+	. "github.com/liuxp0827/Tcppass/common/config"
+	"github.com/liuxp0827/Tcppass/common/log"
+	. "github.com/liuxp0827/Tcppass/dump"
+	"github.com/liuxp0827/Tcppass/stat"
+	"github.com/liuxp0827/Tcppass/tcpassembly"
 	"time"
 )
 

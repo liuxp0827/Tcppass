@@ -2,7 +2,7 @@ package stat
 
 import (
 	"fmt"
-	"github/liuxp0827/tcppass/common/log"
+	"github.com/liuxp0827/Tcppass/common/log"
 	"runtime"
 	"sync/atomic"
 	"time"

@@ -7,8 +7,8 @@ import (
 	"io"
 	"io/ioutil"
 	"os"
-	"github/liuxp0827/tcppass/common/json"
-	"github/liuxp0827/tcppass/common/log"
+	"github.com/liuxp0827/Tcppass/common/json"
+	"github.com/liuxp0827/Tcppass/common/log"
 	"strings"
 )
 
